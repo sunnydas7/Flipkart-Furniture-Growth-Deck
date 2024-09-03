@@ -10,7 +10,7 @@
 
 I participated in the PM School Challenge, focusing on optimizing the sales funnel for Flipkart's furniture category. The objective was to enhance the user experience, increase conversion rates, and drive overall sales growth.
 
-[PM SCHOOL FLIPKART KALPITAM.pdf](https://github.com/user-attachments/files/16488941/PM.SCHOOL.FLIPKART.KALPITAM.pdf)
+[PM SCHOOL FLIPKART.pdf](https://github.com/sunnydas7/Flipkart-Furniture-Growth-Deck/blob/98f57124640e527cfcf79ac0613791160e3195ea/Flipkart.pdf)
 
 ### Key Responsibilities and Skills Applied
 
